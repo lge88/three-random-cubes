@@ -1,0 +1,35 @@
+{
+  "name": "three-random-cubes",
+  "repo": "lge88/three-random-cubes",
+  "description": "three-random-cubes",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "lge88/arr-gen": "*",
+    "lge88/three-build": "*"
+  },
+  "development": {
+    "lge88/ise-viewport": "*",
+    "lge88/expect.js": "*"
+  },
+  "scripts": [
+    "lib/index.js"
+  ],
+  "main": "lib/index.js",
+  "_auto_update_file_list_": {
+    "folders": [
+      "lib"
+    ]
+  },
+  "_rename_": [
+    "component.json",
+    "Makefile",
+    "examples/index.html",
+    "examples/main.js",
+    "examples/main.css",
+    "test/index.html",
+    "test/test.js"
+  ],
+  "styles": [],
+  "paths": []
+}
